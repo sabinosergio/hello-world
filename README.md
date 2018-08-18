@@ -1,2 +1,2 @@
 # hello-world
-Just onother reposotory
+This is how we learn to make and commit changes!
